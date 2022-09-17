@@ -1,6 +1,5 @@
 # NLW eSports
 
-![preview](./.assets/wyanneves.github.io_e-Sports-NLW-_ (1))
 
 > Trilha Explorer
 
